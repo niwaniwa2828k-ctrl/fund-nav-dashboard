@@ -3,9 +3,9 @@
 No fabricated prices. One bad source does not erase previous records.
 """
 import csv, io, json, os, pathlib, urllib.request, datetime, sys
-ROOT=pathlib.Path(__file__).resolve().parents[1]
+ROOT=pathlib.Path(__file__).resolve().parent
 FUNDS=json.loads((ROOT/'funds.json').read_text(encoding='utf-8'))
-PATH=ROOT/'data'/'nav.json'
+PATH=ROOT/'nav.json'
 store=json.loads(PATH.read_text(encoding='utf-8')) if PATH.exists() else {'updated_at':None,'history':{},'errors':{}}
 store.setdefault('history',{});store.setdefault('errors',{})
 
