@@ -14,13 +14,15 @@ jobs:
         with:
           python-version: '3.12'
       - name: Fetch configured NAV sources
-        run: python update.py
+        run: |
+          python discover_mufg.py
+          python update.py
       - name: Commit updated NAV data
         run: |
-          if ! git diff --quiet -- nav.json; then
+          if ! git diff --quiet -- nav.json mufg_candidates.json && git ls-files --error-unmatch mufg_candidates.json >/dev/null 2>&1; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add nav.json
+            git add nav.json mufg_candidates.json
             git commit -m "Update fund NAV data"
             git push
           fi
