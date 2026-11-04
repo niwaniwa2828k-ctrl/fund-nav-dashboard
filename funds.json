@@ -1,0 +1,386 @@
+[
+  {
+    "id": "f01",
+    "name": "サイバーセキュリティ株式(H無)",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f02",
+    "name": "グローバルAIファンド",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f03",
+    "name": "GS フューチャー・テクノロジーB(H無) nextWIN",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f04",
+    "name": "ニッセイ SDGsグローバルセレクト(資産成長・H無)",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f05",
+    "name": "グローバル水素株式ファンド H2",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f06",
+    "name": "FANG+インデックス・オープン",
+    "category": "インデックス",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f07",
+    "name": "M・Sグローバル・プレミアム株式(H無)",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f08",
+    "name": "GS グローバル環境リーダーズ ecoWIN",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f09",
+    "name": "JPM グローバル医療関連株式ファンド",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f10",
+    "name": "ニッセイ・メタバースワールド(資産成長型)",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f11",
+    "name": "東京海上・世界モノポリー戦略株式(毎月)",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f12",
+    "name": "世界eコマース関連株式オープン みらい生活",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f13",
+    "name": "グローバル・ロボティクス株式ファンド(1年)",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f14",
+    "name": "PB グローバル・テクノロジー・インフラ 未来インフラ",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f15",
+    "name": "フューチャー・バイオテック",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f16",
+    "name": "ダイワ FEグローバル・バリュー(H無)",
+    "category": "高配当・バリュー",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f17",
+    "name": "トヨタ自動車/トヨタグループ株式ファンド",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f18",
+    "name": "日経平均高配当利回り株ファンド",
+    "category": "高配当・バリュー",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f19",
+    "name": "フィデリティ・世界割安成長株 B(H無) テンバガー・ハンター",
+    "category": "高配当・バリュー",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f20",
+    "name": "netWIN GSテクノロジー株式ファンド B(H無)",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f21",
+    "name": "明治安田 米国中小型成長株式ファンド",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f22",
+    "name": "ロボット・テクノロジー関連株 ロボテック",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f23",
+    "name": "野村 世界業種別投資シリーズ(半導体)",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f24",
+    "name": "野村 ACI先進医療インパクト投資 D H無",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f25",
+    "name": "三菱UFJ 純金ファンド ファインゴールド",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f26",
+    "name": "アジア・オセアニア好配当株ファンド(毎月決算型)",
+    "category": "高配当・バリュー",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f27",
+    "name": "米国株式配当貴族(年4回決算型)",
+    "category": "高配当・バリュー",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f28",
+    "name": "インベスコ 世界厳選株式(H無)(年1回決算) 世界のベスト",
+    "category": "高配当・バリュー",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f29",
+    "name": "ニッセイ 宇宙関連グローバル株式(成長・H無)",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f30",
+    "name": "ROBOPROファンド",
+    "category": "バランス",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f31",
+    "name": "情報エレクトロニクスファンド",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f32",
+    "name": "WCM 世界成長株厳選ファンド(資産成長型)",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f33",
+    "name": "WCM 世界成長株厳選ファンド(予想分配金提示型)",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f34",
+    "name": "One 割安日本株ファンド(年1回決算型)",
+    "category": "高配当・バリュー",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f35",
+    "name": "デジタル・トランスフォーメーション株式 ゼロ・コンタクト",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f36",
+    "name": "グローバル・フィンテック株式F(年2回)",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f37",
+    "name": "グローバル・モビリティ・サービス株式(1年) グローバルMaaS",
+    "category": "テーマ型",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f38",
+    "name": "eMAXIS 最適化バランス(マイストライカー)",
+    "category": "バランス",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f39",
+    "name": "eMAXIS 最適化バランス(マイフォワード)",
+    "category": "バランス",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f40",
+    "name": "eMAXIS 最適化バランス(マイミッドフィルダー)",
+    "category": "バランス",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f41",
+    "name": "eMAXIS 最適化バランス(マイディフェンダー)",
+    "category": "バランス",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f42",
+    "name": "のむラップ・ファンド(普通型)",
+    "category": "バランス",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f43",
+    "name": "のむラップ・ファンド(積極型)",
+    "category": "バランス",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f44",
+    "name": "iFreeS&P500インデックス",
+    "category": "インデックス",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f45",
+    "name": "iFree外国株式インデックス(H無)",
+    "category": "インデックス",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f46",
+    "name": "iFree8資産バランス",
+    "category": "バランス",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f47",
+    "name": "iFree日経225インデックス",
+    "category": "インデックス",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  },
+  {
+    "id": "f48",
+    "name": "iFree新興国株式インデックス",
+    "category": "インデックス",
+    "source_url": "",
+    "source_type": "csv",
+    "source_code": ""
+  }
+]
