@@ -21,7 +21,7 @@ try:
     with urllib.request.urlopen(req,timeout=30) as resp: raw=resp.read(5000000)
     data=json.loads(raw)
     entries=list(objects(data))
-    report['status']='retrieved'
+    report['status']='retrieved'\n    report['response_type']=type(data).__name__\n    report['top_level_keys']=list(data.keys())[:20] if isinstance(data,dict) else []\n    report['first_record']=entries[0] if entries else None
     report['records_scanned']=len(entries)
     for fid,needle in TARGETS.items():
         matches=[]
